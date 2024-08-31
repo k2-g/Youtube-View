@@ -5,7 +5,7 @@
 - User agents randomized (or set your own!)
 - HTTP Referrer randomized (or set your own!)
 
-This project is licensed under [GNU General Public License](https://github.com/k2-g/Youtube-viewbot/blob/master/LICENSE).
+This project is licensed under [GNU General Public License](https://github.com/k2-g/Youtube-View/blob/master/LICENSE).
 
 <p align="center">
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source">
