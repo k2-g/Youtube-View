@@ -3,6 +3,7 @@
 ## Scrapes labels from etherscan, bscscan & polygonscan, arbitrium, fantom, avalanche website and stores into JSON/CSV.
 
 
+
 | Chain                                                                             | Site                                                               | Label Count                                                                                                         | Status | Last scraped |
 | --------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | ------ | ------------ |
 | [ETH](https://github.com/brianleect/etherscan-labels/tree/main/data/etherscan)    | [https://etherscan.io](https://etherscan.io)                       | [29945](https://github.com/brianleect/etherscan-labels/tree/main/./data/etherscan/combined/combinedAllLabels.json)  | ✅ ok  | 19/6/2024    |
